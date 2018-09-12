@@ -12,5 +12,7 @@
         "node": true,
         "mocha": true
     },
-    "rules": {}
+    "rules": {
+		"no-console": 1
+	}
 }
